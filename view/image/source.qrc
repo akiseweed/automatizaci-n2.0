@@ -1,0 +1,56 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>flecha3.png</file>
+    <file>acccion_editar.png</file>
+    <file>accion_eliminar.png</file>
+    <file>accion_exportar.png</file>
+    <file>agregar_entrega.png</file>
+    <file>agregar_seguimiento.png</file>
+    <file>borrar.png</file>
+    <file>borrarrrr.png</file>
+    <file>botonadd.png</file>
+    <file>cerrar.png</file>
+    <file>cerrarrrr.png</file>
+    <file>check.png</file>
+    <file>checkkk.png</file>
+    <file>contraerabajo.png</file>
+    <file>contraerarriba.png</file>
+    <file>detalle.png</file>
+    <file>exportar.png</file>
+    <file>flechaaaa.png</file>
+    <file>invisible.png</file>
+    <file>limpiartttt.png</file>
+    <file>login.jpeg</file>
+    <file>logito.png</file>
+    <file>logito2.png</file>
+    <file>logo.png</file>
+    <file>logooooo.png</file>
+    <file>menu.png</file>
+    <file>menu_mantenimiento.png</file>
+    <file>menuactualizar.png</file>
+    <file>menuafiliacion.png</file>
+    <file>menuhome.png</file>
+    <file>menureport.png</file>
+    <file>menusalir.png</file>
+    <file>menuseguimiento.png</file>
+    <file>menuusuario.png</file>
+    <file>no.png</file>
+    <file>ok.png</file>
+    <file>retornar.png</file>
+    <file>seguimiento_edtir.png</file>
+    <file>seguimiento_eliminar.png</file>
+    <file>start.png</file>
+    <file>visible.png</file>
+    <file>visualizar_seguimiento.png</file>
+    <file>WhatsApp Image 2023-12-31 at 6.22.21 PM.jpeg</file>
+    <file>WhatsApp Image 2023-12-31 at 6.22.22 PM.jpeg</file>
+    <file>x.png</file>
+    <file>contraerabajo.png</file>
+    <file>contraerarriba.png</file>
+    <file>login.jpeg</file>
+    <file>cerrar.png</file>
+    <file>borrar.png</file>
+    <file>logo.png</file>
+    <file>check.png</file>
+  </qresource>
+</RCC>
